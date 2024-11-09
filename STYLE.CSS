@@ -1,0 +1,213 @@
+*{
+    padding: 0;
+    
+    box-sizing: border-box;
+}
+/* inicio primeira secao*/
+.logoPrimeiraSecao{
+    background-color: #604829;
+    position: relative;
+
+}
+.logoPrimeiraSecao img{
+    width: 100px;
+    margin-left: 10%;
+}
+
+.logoPrimeiraSecao a{
+    display: inline;
+    position: relative;
+    text-decoration: none;
+    left: 50%;
+    bottom: 40px;
+    margin-left: 10px;
+    color:#c4a47c ;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 1px 4px 3px black ;
+
+}
+
+/* fim primeira secao*/
+
+
+/* inicio segunda secao*/
+.banner-segundaSecao{
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 21%;
+    background-image: url(./images/download-arquivos-do-projeto/assets/parallax-imagem1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo-cafeteria {
+    position: relative;
+    font-size: 100px;
+    bottom: 100px;
+    font-size: 50px;
+    top: 60px;
+   
+    
+}
+
+/* fim segunda secao */
+
+
+/* inicio terceira secao */
+.texto-cafeteria{
+    text-align: center;
+    color: #c4a47c;
+}
+
+.paragrafo-cafeteria{
+    color: rgb(134, 130, 123);
+    text-align: justify;
+    margin: 0 90px 0 90px;
+}
+
+/* fim terceira secao */
+
+/* inicio da quarta secao */
+.banner-quartaSecao{
+    background-image: url(./images/download-arquivos-do-projeto/assets/parallax-imagem2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 10%;
+    height: 30%;
+    margin-top: 50px;
+}
+
+.texto-banner{
+    font-family: 'Fraunces', serif;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    background-color: #604829;
+    margin: 40px auto;
+    padding:10px 0 ;
+    width: 40%;
+}
+
+
+/* final da quarta seçao */
+
+
+/* inicio sexta secao */
+.banner-sextaSecao{
+   background-image: url(./images/download-arquivos-do-projeto/assets/parallax-imagem3.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+   padding: 10%;
+   margin-top: 50px;
+   
+   
+}
+/* fim sexta secao */
+
+
+
+/* inicio oitava secao */
+.contato{
+    margin-top : 50px;
+    text-align: center;
+    background-image: url(./images/download-arquivos-do-projeto/assets/parallax-imagem4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.contato h3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    background-color: #604829;
+    margin: 60px 30%;
+}
+.contato ul{
+    color: white;
+    background-color: #604829;
+    margin: 40px 40%;
+    padding: 15px;
+    text-shadow: 5px 5px 3px black;
+    
+    
+   
+}
+
+
+/* fim oitava secao */
+
+
+
+.horarios{
+    position: relative;
+    color: white;
+    background-image: url(./images/download-arquivos-do-projeto/assets/cafeteria.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-weight: bold;
+    text-align: center;
+    padding: 91px;
+}
+.horarios li{
+    position: absolute;
+    left: 350px;
+
+    
+
+}
+.horarios p{
+    position: relative;
+    left: 120px;
+    
+    
+}
+.horarios ul{
+    position: relative;
+    left: 50px;
+    margin-bottom: 60px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif; 
+}
+
+.horarios span{
+    position: relative;
+    bottom: 16px;
+    color: #b1701b;
+}
+
+.horarios h3{
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+.rodape{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    color: white;
+    background-color: #140f08;
+    padding: 9px;
+    font-weight: bold;
+    
+    
+}
+.rodape img{
+    position: relative;
+    left: 45%;
+    bottom: 120px;
+    background-color: #bda587;
+}
+span{
+    color: #b1701b;
+}
+
+
